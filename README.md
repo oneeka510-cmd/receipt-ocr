@@ -1,5 +1,7 @@
 # 🧾 Local Receipt OCR Extractor
-<video controls src="receipt_ocr_video.mp4" title="Title"></video>
+
+<video controls src="receipt_ocr_video.mp4" title="Video_demo"></video>
+
 Upload a photo of a receipt and get back a structured table of its
 contents (company, date, line items, totals) — entirely offline, using
 local LLMs served by [Ollama](https://ollama.com/). No API keys, no
