@@ -1,5 +1,8 @@
 # 🧾 Local Receipt OCR Extractor
-D:\receipt_ocr\receipt_ocr_video.mp4
+
+
+https://github.com/user-attachments/assets/56aede30-f5a8-4ae5-a5d1-a64fed9a97e4
+
 
 
 Upload a photo of a receipt and get back a structured table of its
