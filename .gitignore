@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+rvenv/
+.env
+.streamlit/
+*.log
+sample_receipts/*
+!sample_receipts/.gitkeep
